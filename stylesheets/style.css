@@ -3,7 +3,7 @@ body{
 }
 
 #title{
-    font-family: "Lucida", sans-serif;
+    font-family:  "Haettenschweiler", fantasy;
     font-size: 50px;
     text-align:center;
 }
@@ -11,23 +11,36 @@ body{
 #outer{
     text-align:center;
     margin-bottom: 50px;
+    
    
 
 }
 
 #inner{
-    width: 50%;
+    
     margin: 10px 10px 0;
     display: inline;
     
 }
 
+#text{
+    font-family:  "Haettenschweiler", fantasy;
+    font-size: 30px;
+    height: 300px;
+    width: 300px;
+    margin-left: 200px;
+    position:relative;left:80px;top:100px;
+    
+}
+
 #profile{
-    text-align:center;
-    margin-right: 400px;
+    margin-left: 100px;
 }
 .img-circle{
     border-radius: 30%;
+    height: 350px;
+    float: right;
+    margin-right: 300px;
 }
 .btn {
     
