@@ -75,14 +75,14 @@ body{
     float: right;
     margin-right: 150px;
     
-    box-shadow: 3px 3px 3px #666666;
+    box-shadow: 3px 3px 3px #012E34;
 }
 .img-circle{
     border-radius: 30%;
     
     float: right;
     margin-right: 300px;
-    box-shadow: 3px 3px 3px #666666;
+    box-shadow: 3px 3px 3px #012E34;
 }
 .btn {
     font-family:  "Century Gothic", fantasy;
@@ -98,7 +98,7 @@ body{
     text-shadow: 4px 3px 5px #666666;
     -webkit-box-shadow: 3px 3px 3px #666666;
     -moz-box-shadow: 3px 3px 3px #666666;
-    box-shadow: 3px 3px 3px #666666;
+    box-shadow: 3px 3px 3px #012E34;
     
     color: #ffffff;
     font-size: 21px;
